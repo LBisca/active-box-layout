@@ -36,6 +36,15 @@ a:hover {
     text-decoration: none !important;
 }
 
+.padding-1 {
+    display: block;
+    padding: 1px;
+}
+
+.margin-bottom {
+    margin-bottom: 100px;
+}
+
 .padding {
     padding-top: 100px;
 }
