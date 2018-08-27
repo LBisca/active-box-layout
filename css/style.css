@@ -36,6 +36,11 @@ a {
     color: unset !important;
 }
 
+.founder-name {
+    margin-top: 20px !important;
+}
+
+
 a:hover {
     text-decoration: none !important;
 }
@@ -197,6 +202,13 @@ a:hover {
         padding: 100px;
     }
 }
+
+.logo-padding {
+    padding-right: 2px !important;
+    padding-left: 2px !important;
+}
+
+
 
 
 .main-section {
